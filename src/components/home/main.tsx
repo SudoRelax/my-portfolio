@@ -2,7 +2,7 @@ import { Link } from "react-router-dom"
 
 export const Main = () => {
     return (
-        <div className="flex-1 p-10 bg-linear-to-b from-cyan-200 to-blue-500 dark:from-slate-800 dark:to-slate-900 h-11/12 m-6 mr-14 rounded-lg shadow-sm overflow-y-auto transition-all duration-300">
+        <div className="flex-1 p-6 md:p-10 bg-linear-to-b from-cyan-200 to-blue-500 dark:from-slate-800 dark:to-slate-900 h-full md:h-[95vh] m-0 md:m-6 md:mr-14 rounded-none md:rounded-3xl shadow-sm overflow-y-auto transition-all duration-300">
             <div className="max-w-5xl mx-auto space-y-16">
                 {/* Welcome Hero */}
                 <section className="space-y-6 animate-fade-in text-center py-10">

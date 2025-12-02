@@ -8,7 +8,7 @@ export const AboutHero = () => {
             </h1>
             <div className="prose prose-lg text-slate-700 dark:text-blue-50 transition-colors duration-300">
                 <p className="text-xl leading-relaxed font-medium">
-                    Soy Bruno, arquitecto de software y desarrollador web.
+                    Soy Bruno Da Silva, arquitecto de software y desarrollador web.
                 </p>
                 <p className="text-lg leading-relaxed mt-4">
                     Mi trayectoria combina experiencia en backend, frontend y agentes de inteligencia artificial reproducibles. Me especializo en el desarrollo web modular y "audit-friendly", con una sólida base adquirida en el Polo Científico de Formosa y un aprendizaje continuo en tecnologías modernas.
